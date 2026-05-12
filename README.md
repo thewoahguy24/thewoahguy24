@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thewoahguy24
-- 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning complex algorithm and logic to get better at competitive programming.
-- 💞️ I’m looking to collaborate with any helpful competitive programmer or resource related to compettitve programming
+- 👀 I’m interested in competitive programming, AI, LLM.
+- 🌱 I’m currently learning the proper use of AI to boost my productivity.
+- 💞️ I’m looking for a good mentor and institution for a better professional experience.
 - 📫 https://codeforces.com/profile/thewoahguy24
 
 <!---
